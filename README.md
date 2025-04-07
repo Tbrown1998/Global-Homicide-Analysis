@@ -62,6 +62,17 @@ The dataset is sourced from [Data World Bank](https://data.worldbank.org/indicat
 
 ---
 
+## Data Processing Pipeline
+
+```mermaid
+graph TD
+    A[Raw Data] --> B[Load Data]
+    B --> C[Python Cleaning]
+    C --> D[Data Exploration]
+    D --> E[Key Insights & Findings]
+```
+---
+
 ## Step 1
 **Import all dependencies**
 ```python
