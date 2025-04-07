@@ -26,7 +26,9 @@ To conduct a thorough analysis of global homicide data, with special focus on Ni
   - `pandas`, `numpy` – Data Cleaning, Data manipulation  
   - `matplotlib`, `seaborn` – Data visualization  
 - **Jupyter Notebook** – For interactive development  
-- **Git & GitHub** – Version control and project showcase  
+- **Git & GitHub** – Version control and project showcase
+- ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2.0.0-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5.0-blue?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-0.11.0-black?logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+
 
 ---
 
