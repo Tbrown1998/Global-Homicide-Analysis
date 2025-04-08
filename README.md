@@ -12,7 +12,7 @@
 ### 🎯 Project Objectve
 To conduct a thorough analysis of global homicide data, with special focus on Nigeria and Africa, comparing their patterns, rates, and trends with other regions around the world.
 
-### Expected Outcomes
+### Expected Outcomes 
 - Clear visualization of global homicide distribution
 - Insight into regional disparities and socio-economic implications
 -  comparative lens to evaluate Nigeria and Africa's performance
