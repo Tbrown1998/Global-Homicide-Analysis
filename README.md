@@ -163,7 +163,8 @@ plt.xlabel('Homicide Rate (per 100k)')
 plt.ylabel('Country')
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/1441c459-5175-4171-8e6e-816077a113e1)
+![image](https://github.com/user-attachments/assets/22d94e6f-68cc-4aa5-8d4d-207f3f3216d3)
+
 
 
 ```python
