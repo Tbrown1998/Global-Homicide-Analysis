@@ -171,6 +171,7 @@ plt.show()
 top_countries_by_percentage = df.sort_values('percentage_of_total', ascending=False).head(10)
 top_countries_by_percentage
 ```
+##### Table:
 ![Screenshot (118)](https://github.com/user-attachments/assets/feeabfbc-9ca2-4e0c-9ebc-31d8d5072297)
 
 ##### Top Countries By Homicides & Count
@@ -201,12 +202,13 @@ region_count = df.groupby('region').agg({
 }).sort_values('count', ascending=False)
 region_count
 ```
+**Table:**
 ![Screenshot (119)](https://github.com/user-attachments/assets/8672c626-b9fb-46cd-99c7-b0ff09853ea9)
 
-
+**Visual:**
 ![image](https://github.com/user-attachments/assets/567745fb-8a0f-4bf1-aaef-c64c3cd8f017)
 
-
+##### Homicide count comparison
 
 ```python
 #Percentage Of Share by Region
@@ -225,7 +227,9 @@ plt.show()
 ```
 ![image](https://github.com/user-attachments/assets/f3828d26-90b1-45a3-9cae-992fb8371481)
 
-## How Does Nigeria Compare To The Rest Of The World?
+--- 
+
+### How Does Nigeria Compare To The Rest Of The World?
 
 ```python
 #filtering Nigeria rows
@@ -255,8 +259,9 @@ plt.ylabel('Homicide Rate')
 plt.tight_layout()
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/03f5313b-b241-4839-839f-43e577d216fc)
+![image](https://github.com/user-attachments/assets/333aba48-d508-4ecd-b450-bb9ea2c29cda)
 
+##### Homicide count comparison
 ```python
 # Homicide count comparison
 
@@ -267,7 +272,8 @@ plt.ylabel('Homicide Count')
 plt.tight_layout()
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/ddffe33a-6ee1-440d-bddc-d6e37822fd97)
+![image](https://github.com/user-attachments/assets/c9a09740-6daf-4dd8-9859-6f566ec67544)
+
 
 ### Global Comparisons
 
