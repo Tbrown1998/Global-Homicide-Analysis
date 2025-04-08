@@ -164,34 +164,33 @@ plt.show()
 ```
 ![image](https://github.com/user-attachments/assets/a32ab666-0ffe-424a-b148-ccbf40a030dd)
 
-
-
-
+##### Top Countries By Percentage Of Global Homicides & Count
 ```python
 # Top 10 countries by percentage of global homicides
 
 top_countries_by_percentage = df.sort_values('percentage_of_total', ascending=False).head(10)
 top_countries_by_percentage
 ```
-![Screenshot (114)](https://github.com/user-attachments/assets/14d0af50-7c90-4ec2-8158-71eef0ecde3b)
+![Screenshot (118)](https://github.com/user-attachments/assets/feeabfbc-9ca2-4e0c-9ebc-31d8d5072297)
 
+##### Top Countries By Homicides & Count
 ```python
 # Top 5 countries by homicide count
 
-top_countries_by_count = df.sort_values('count', ascending=False).head(5)
-top_countries_by_count
-
-plt.figure(figsize=(10,6))
-sns.barplot(x='count', y='location', data=top_countries_by_count, color='crimson')
-plt.title('Top 5 Countries by Homicide Count')
-plt.xlabel('Homicide Count')
-plt.ylabel('Country')
+plt.figure(figsize=(8,6))
+sns.barplot(x='count', y='location', data=top_countries_by_count, color='crimson', width=0.5)
+plt.title('Top 5 Countries by Homicide Count', fontsize=16)
+plt.xlabel('Homicide Count', fontsize=14)
+plt.ylabel('Country', fontsize=14)
+plt.xticks(fontsize=14)
+plt.yticks(fontsize=14)
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/8662fbc8-a65b-4e53-af35-a075734b338e)
+![image](https://github.com/user-attachments/assets/c48310d6-3879-4876-bcca-d8326732d680)
 
-#### Regional Analysis
 
+### Regional Analysis
+**Regions with Highest Homicide Count**
 ```python
 # Grouping Regions by homicide count
 
@@ -202,9 +201,11 @@ region_count = df.groupby('region').agg({
 }).sort_values('count', ascending=False)
 region_count
 ```
-![Screenshot (115)](https://github.com/user-attachments/assets/7fa6efb1-bc3b-45c3-bfdc-bab79e8da143)
+![Screenshot (119)](https://github.com/user-attachments/assets/8672c626-b9fb-46cd-99c7-b0ff09853ea9)
 
-![image](https://github.com/user-attachments/assets/5b9e07c5-38b8-4379-bb69-fb3b4ad51e70)
+
+![image](https://github.com/user-attachments/assets/567745fb-8a0f-4bf1-aaef-c64c3cd8f017)
+
 
 
 ```python
