@@ -162,7 +162,8 @@ plt.xticks(fontsize=14)
 plt.yticks(fontsize=14)
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/a32ab666-0ffe-424a-b148-ccbf40a030dd)
+![image](https://github.com/user-attachments/assets/0d536319-c7ff-4b6d-acfd-9789cd2ed121)
+
 
 ##### Top Countries By Percentage Of Global Homicides & Count
 ```python
@@ -187,7 +188,8 @@ plt.xticks(fontsize=14)
 plt.yticks(fontsize=14)
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/c48310d6-3879-4876-bcca-d8326732d680)
+![image](https://github.com/user-attachments/assets/c5042d96-59df-4a3a-9f07-58e974f605e1)
+
 
 
 ### Regional Analysis
@@ -206,14 +208,15 @@ region_count
 ![Screenshot (119)](https://github.com/user-attachments/assets/8672c626-b9fb-46cd-99c7-b0ff09853ea9)
 
 **Visual:**
-![image](https://github.com/user-attachments/assets/567745fb-8a0f-4bf1-aaef-c64c3cd8f017)
+![image](https://github.com/user-attachments/assets/b38f4ccf-68a6-4a98-a275-84dceadf431c)
+
 
 ##### Homicide count comparison
 
 ```python
 #Percentage Of Share by Region
 
-region_share = region_stats['percentage_of_total']
+region_share = region_count['percentage_of_total']
 region_share
 
 # Pie chart for homicide share by region
