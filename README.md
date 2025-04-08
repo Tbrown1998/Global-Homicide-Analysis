@@ -144,25 +144,26 @@ print(f"Global Average Homicide Rate: {global_avg_rate:.2f} Per 100,00 People")
 print(f"Year Range: {year_range[0]} to {year_range[1]}")
 ```
 ##### Output:
-- **Total Homicide Count: 378,846**
-- **Global Average Homicide Rate: 6.41 Per 100,00 People**
-- **Year Range: 2006 to 2021**
+- Total Homicide Count: 378,846
+- Global Average Homicide Rate: 6.41 Per 100,00 People
+- Year Range: 2006 to 2021
 
-**- Top Countries By Homicide Rate (per 100k people)**
+##### Top Countries By Homicide Rate (per 100k people)
 ```python
 # Top 5 countries by highest homicide rate
 top_countries = df.sort_values('rate', ascending=False).head(5)
 
 plt.figure(figsize=(8,6))
 sns.barplot(x='rate', y='location', data=top_countries, color='crimson', width=0.5)
-plt.title('Top 5 Countries by Homicide Rate', fontsize= 16)
+plt.title('Countries With Highest Homicide Rate', fontsize= 16)
 plt.xlabel('Homicide Rate (per 100k)', fontsize= 14)
 plt.ylabel('Country', fontsize= 14)
 plt.xticks(fontsize=14)
 plt.yticks(fontsize=14)
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/22d94e6f-68cc-4aa5-8d4d-207f3f3216d3)
+![image](https://github.com/user-attachments/assets/a32ab666-0ffe-424a-b148-ccbf40a030dd)
+
 
 
 
