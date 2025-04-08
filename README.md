@@ -20,7 +20,7 @@ To conduct a thorough analysis of global homicide data, with special focus on Ni
 
 --- 
 
-## 🧰 Technology Stack
+## 🧰 Tools Stack
 
 - **Python**  
   - `pandas`, `numpy` – Data Cleaning, Data manipulation  
