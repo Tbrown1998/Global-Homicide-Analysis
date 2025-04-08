@@ -130,8 +130,7 @@ df['percentage_of_total'] = (df['count'] * 100 / df['count'].sum()).round(2)
 df
 ```
 
-## Step 3
-### Exploratory Data Analysis (EDA)
+### Step 3 Exploratory Data Analysis (EDA)
 **Global Summary (Regional & Subregional Insights)**
 ```python
 # Global homicide count and average rate
@@ -144,7 +143,7 @@ print(f"Total Homicide Count: {global_count:,}")
 print(f"Global Average Homicide Rate: {global_avg_rate:.2f} Per 100,00 People")
 print(f"Year Range: {year_range[0]} to {year_range[1]}")
 ```
-![Screenshot (113)](https://github.com/user-attachments/assets/99e53905-1bf6-4dc4-9312-7e4c30414754)
+##### Output:
 - **Total Homicide Count: 378,846**
 - **Global Average Homicide Rate: 6.41 Per 100,00 People**
 - **Year Range: 2006 to 2021**
