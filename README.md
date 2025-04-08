@@ -1,18 +1,18 @@
-## World Homicide Analysis
+## Global Homicide Rate Analysis:
 
-## Global Homicide Rate Analysis: Understanding Trends and Comparing Nigeria & Africa to the Rest of the World
+## Understanding Trends While Comparing Nigeria & Africa to the Rest of the World
 
 ![dh4tiu9ne4911](https://github.com/user-attachments/assets/ac7bc260-b6b2-4dee-a7d4-5269f885b75c)
 
 
-Homicide remains a significant global issue, with stark differences across countries, subregions, and continents. Understanding the scale and pattern of homicides across the world can reveal insights into socio-political stability, public safety, and developmental challenges. However, a comparative and regional perspective especially for Africa and Nigeria is often missing in mainstream data narratives.
+**Homicide** remains a significant global issue, with stark differences across countries, subregions, and continents. Understanding the scale and pattern of homicides across the world can reveal insights into socio-political stability, public safety, and developmental challenges. However, a comparative and regional perspective especially for Africa and Nigeria is often missing in mainstream data narratives.
 
 ---
 
-### 🎯 Project Goal
+### 🎯 Project Objectve
 To conduct a thorough analysis of global homicide data, with special focus on Nigeria and Africa, comparing their patterns, rates, and trends with other regions around the world.
 
-### 🎯 Expected Outcomes
+### Expected Outcomes
 - Clear visualization of global homicide distribution
 - Insight into regional disparities and socio-economic implications
 -  comparative lens to evaluate Nigeria and Africa's performance
@@ -20,14 +20,14 @@ To conduct a thorough analysis of global homicide data, with special focus on Ni
 
 --- 
 
-## 🧰 Tools & Technologies
+## 🧰 Technology Stack
 
 - **Python**  
   - `pandas`, `numpy` – Data Cleaning, Data manipulation  
-  - `matplotlib`, `seaborn` – Data visualization  
-- **Jupyter Notebook** – For interactive development  
+  - `matplotlib`, `seaborn` – Data visualization
+  -  ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2.0.0-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5.0-blue?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-0.11.0-black?logo=python&logoColor=white) 
+- **Jupyter Notebook** – For interactive development ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 - **Git & GitHub** – Version control and project showcase
-- ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2.0.0-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5.0-blue?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-0.11.0-black?logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
 
 ---
