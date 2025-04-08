@@ -163,7 +163,8 @@ plt.xlabel('Homicide Rate (per 100k)')
 plt.ylabel('Country')
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/4e251fa5-284a-4e8d-a28a-b0e3d71ada24)
+![image](https://github.com/user-attachments/assets/1441c459-5175-4171-8e6e-816077a113e1)
+
 
 ```python
 # Top 10 countries by percentage of global homicides
