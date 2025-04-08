@@ -26,7 +26,8 @@ To conduct a thorough analysis of global homicide data, with special focus on Ni
   - `pandas`, `numpy` – Data Cleaning, Data manipulation  
   - `matplotlib`, `seaborn` – Data visualization
   -  ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2.0.0-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5.0-blue?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-0.11.0-black?logo=python&logoColor=white) 
-- **Jupyter Notebook** – For interactive development ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+- **Jupyter Notebook** – For interactive development
+- ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 - **Git & GitHub** – Version control and project showcase
 
 
@@ -48,6 +49,17 @@ The dataset is sourced from [Data World Bank](https://data.worldbank.org/indicat
 
 ---
 
+## Data Processing Pipeline
+
+```mermaid
+graph TD
+    A[Raw Data] --> B[Load Data]
+    B --> C[Python Cleaning]
+    C --> D[Data Exploration]
+    D --> E[Key Insights & Findings]
+```
+---
+
 ## 🔍 Analysis Workflow
 1. Importing all Libraries & dependenices
    - Load datasets
@@ -60,18 +72,7 @@ The dataset is sourced from [Data World Bank](https://data.worldbank.org/indicat
    - Distribution Analysis
 4. Key Findings
 
----
-
-## Data Processing Pipeline
-
-```mermaid
-graph TD
-    A[Raw Data] --> B[Load Data]
-    B --> C[Python Cleaning]
-    C --> D[Data Exploration]
-    D --> E[Key Insights & Findings]
-```
----
+--- 
 
 ## Step 1
 **Import all dependencies**
@@ -89,7 +90,7 @@ df = pd.read_csv('homicide_by_countries.csv')
 #first 10 rows of dataset
 df.head(10)
 
-#lasr 10 rows of dataset
+#last 10 rows of dataset
 df.tail(10)
 
 #shape of dataset
@@ -113,6 +114,7 @@ df['count'].sum()
 df.isnull().sum()
 
 # convert column type to correct dtype
+
 df.columns
 my_list = ['Count', 'Year', 'Rate']
 for i in my_list:
@@ -129,8 +131,8 @@ df
 ```
 
 ## Step 3
-**Exploratory Data Analysis (EDA)**
-### Global Summary (Regional & Subregional Insights)
+### Exploratory Data Analysis (EDA)
+**Global Summary (Regional & Subregional Insights)**
 ```python
 # Global homicide count and average rate
 
