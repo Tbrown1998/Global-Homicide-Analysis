@@ -229,7 +229,7 @@ plt.show()
 
 --- 
 
-### How Does Nigeria Compare To The Rest Of The World?
+### 🇳🇬 How Does Nigeria Compare To The Rest Of The World?
 
 ```python
 #filtering Nigeria rows
@@ -274,9 +274,10 @@ plt.show()
 ```
 ![image](https://github.com/user-attachments/assets/c9a09740-6daf-4dd8-9859-6f566ec67544)
 
+---
 
 ### Global Comparisons
-
+**Global Homicide Rate Distribution**
 ```python
 # Global Homicide Rate Distribution
 
@@ -288,7 +289,9 @@ plt.ylabel('Frequency')
 plt.tight_layout()
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/7b228109-86e3-44c5-ad4e-f53297439dca)
+![image](https://github.com/user-attachments/assets/8607fc83-0f4d-473d-8fd5-0cb5d785d06b)
+
+**Homicide Rate Over Years Globally**
 
 ```python
 # Plotting homicide rate over years globally
@@ -302,7 +305,8 @@ plt.tight_layout()
 plt.show()
 
 ```
-![image](https://github.com/user-attachments/assets/565daf3d-6a35-4e17-a774-0acb2b386706)
+![image](https://github.com/user-attachments/assets/36f63fd0-375e-4e1a-ad61-901ff7de3a0f)
+
 
 --- 
 
