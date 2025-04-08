@@ -331,6 +331,15 @@ fig.show()
 ```
 ![newplot](https://github.com/user-attachments/assets/370f37f9-0d43-4d24-90df-a7b75c82ca01)
 
+--- 
+
+![Screenshot (124)](https://github.com/user-attachments/assets/66efb331-f0a1-4234-8e95-09e98e7931f1)
+
+
+![Screenshot (122)](https://github.com/user-attachments/assets/4003f568-056c-4fa8-b470-ee9bfa31954d)
+
+![Screenshot (123)](https://github.com/user-attachments/assets/aa229699-7304-4705-bf3e-77266db2a2a6)
+
 
 --- 
 
@@ -368,18 +377,16 @@ Regions like Western Europe, East Asia show very low rates
 ---
 
 ## 📌 About Me
-Hi, I'm Oluwatosin Amosu Bolaji, a Data Analyst with strong skills in Python, SQL, Power BI, and Excel. I turn raw data into actionable insights through automation, data storytelling, and visual analytics.
+Hi, I'm Oluwatosin Amosu Bolaji, a Data Analyst with strong skills in Python, SQL, Power BI, and Excel. I turn raw data into actionable insights through automation, data storytelling, and visual analytics. My work is rooted in analytical thinking, strong business acumen, and technical expertise. Whether it's uncovering hidden trends, optimizing workflows, or translating data into compelling stories, I bring clarity and direction to data—helping organizations make smarter, faster decisions.
 
 ## 💡 Tools & Tech:
-#### Python (Pandas, NumPy, Matplotlib, Seaborn)
-- ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2.0.0-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-1.21.0-013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5.0-blue?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-0.11.0-black?logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-5.5.0-3F4F75?logo=plotly)
-#### SQL (MsSQL, Postgree, MySQL)
-- ![SQL](https://img.shields.io/badge/SQL-Server-red?logo=microsoft-sql-server&logoColor=white) ![MS SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-#### Microsoft Power BI
-- ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-F2C811?logo=powerbi&logoColor=black) ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?logo=powerbi&logoColor=black)
-#### Microsoft Excel
-- ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
-#### 🔹 Key Skills: Data wrangling, dashboarding, reporting, and process optimization.
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **SQL** (MsSQL, Postgree, MySQL)
+- **Microsoft Power BI**
+- **Microsoft Excel**
+- 🔹 **Key Skills:** Data wrangling, dashboarding, reporting, and process optimization.
+- ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-Server-red?logo=microsoft-sql-server&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+
 
 #### 🚀 **Always learning. Always building. Data-driven to the core.**  
 
