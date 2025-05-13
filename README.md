@@ -1,4 +1,4 @@
-## DecodingGlobal Homicide Rate Analysis with Python:
+## Decoding Global Homicide Rate Analysis with Python 🐍:
 
 ### Comparing Different Regions wtht a spotlight on Nigeria & Africa
 
@@ -12,7 +12,7 @@
 ---
 
 ### 🎯 Project Objectve
-I conductED a thorough analysis of global homicide data, with special focus on Nigeria and Africa, comparing their patterns, rates, and trends with other regions around the world.
+I conducted a thorough analysis of global homicide data, with special focus on Nigeria and Africa, comparing their patterns, rates, and trends with other regions around the world.
 
 ### Expected Outcomes 
 - Clear visualization of global homicide distribution
