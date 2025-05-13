@@ -331,10 +331,12 @@ fig = px.choropleth(df_map,
 fig.update_layout(geo=dict(showframe=False, showcoastlines=False))
 fig.show()
 ```
-### Some Screenshots
+
 ![newplot](https://github.com/user-attachments/assets/370f37f9-0d43-4d24-90df-a7b75c82ca01)
 
 --- 
+
+### Desktop Screenshots:
 
 ![Screenshot (124)](https://github.com/user-attachments/assets/66efb331-f0a1-4234-8e95-09e98e7931f1)
 
