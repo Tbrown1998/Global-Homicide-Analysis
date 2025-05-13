@@ -1,16 +1,18 @@
-## Global Homicide Rate Analysis:
+## DecodingGlobal Homicide Rate Analysis with Python:
 
-## Understanding Trends While Comparing Nigeria & Africa to the Rest of the World
+### Comparing Different Regions wtht a spotlight on Nigeria & Africa
 
 ![dh4tiu9ne4911](https://github.com/user-attachments/assets/ac7bc260-b6b2-4dee-a7d4-5269f885b75c)
 
 
-**Homicide** remains a significant global issue, with stark differences across countries, subregions, and continents. Understanding the scale and pattern of homicides across the world can reveal insights into socio-political stability, public safety, and developmental challenges. However, a comparative and regional perspective especially for Africa and Nigeria is often missing in mainstream data narratives.
+**Homicide** remains a significant global issue, with stark differences across countries, subregions, and continents. 
+- Understanding the scale and pattern of homicides across the world can reveal insights into socio-political stability, public safety, and developmental challenges.
+- However, a comparative and regional perspective especially for Africa and Nigeria is often missing in mainstream data narratives.
 
 ---
 
 ### 🎯 Project Objectve
-To conduct a thorough analysis of global homicide data, with special focus on Nigeria and Africa, comparing their patterns, rates, and trends with other regions around the world.
+I conductED a thorough analysis of global homicide data, with special focus on Nigeria and Africa, comparing their patterns, rates, and trends with other regions around the world.
 
 ### Expected Outcomes 
 - Clear visualization of global homicide distribution
@@ -329,6 +331,7 @@ fig = px.choropleth(df_map,
 fig.update_layout(geo=dict(showframe=False, showcoastlines=False))
 fig.show()
 ```
+### Some Screenshots
 ![newplot](https://github.com/user-attachments/assets/370f37f9-0d43-4d24-90df-a7b75c82ca01)
 
 --- 
